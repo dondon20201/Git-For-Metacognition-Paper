@@ -1,0 +1,16 @@
+.Rhistory
+.RData
+.Rproj.user/
+.Renviron
+renv/library/
+renv/local/
+renv/cellar/
+renv/staging/
+.DS_Store
+Thumbs.db
+data/raw/*
+!data/raw/.gitkeep
+results/*
+!results/.gitkeep
+figures/*
+!figures/.gitkeep
